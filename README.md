@@ -37,13 +37,13 @@ Actual time needed to complete: 40 min
 ```
 ### Feature #2: Modify the contents
 
-Estimate of time needed to complete: 
+Estimate of time needed to complete: 1 hour
 
-Start time: _____
+Start time: 8:25pm
 
-Finish time: _____
+Finish time: 10:30pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 2 hours
 ```
 
 ### Feature #1: Refactor the CSS 
